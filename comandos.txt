@@ -1,0 +1,50 @@
+  474  node repaso.js 
+  475  node repaso.js 
+  476  node repaso.js 
+  477  node repaso.js 
+  478  node repaso.js 
+  479  node repaso.js 
+  480  node repaso.js 
+  481  node repaso.js 
+  482  node repaso.js 
+  483  node repaso.js 
+  484  node repaso.js 
+  485  node repaso.js 
+  486  node repaso.js 
+  487  node repaso.js 
+  488  node repaso.js 
+  489  node repaso.js 
+  490  node repaso.js 
+  491  node repaso.js 
+  492  mkdir Clase3Vivo
+  493  cd Clase3Vivo/
+  494  code.
+  495  code . 
+  496  mv ../claseEnVivo.js .
+  497  mv claseEnVivo.js ../
+  498  cp ../claseEnVivo.js .
+  499  clear
+  500  git init
+  501  git remote add origin https://github.com/veronicajujuy/prueba02.git
+  502  touch comandos.txt main.js index.html
+  503  git add .
+  504  git commit -m "commit 1 de vero"
+  505  git push origin main
+  506  git branch -b feature
+  507  git checkout -b feature
+  508  mkdir Hardware Software SeguridadInformatica
+  509  touch Hardware/resumen.txt SeguridadInformatica/resumen.txt Software/resument.txt
+  510  git add .
+  511  git push origin feature 
+  512  git add .
+  513  git commit -m "commit 02 vero"
+  514  git push origin feature 
+  515  git checkout main
+  516  mv main.js resumenHardware.txt
+  517  mv index.html resumenSoftware.txt
+  518  git status
+  519  git add .
+  520  git commit -m "commit 03 de vero"
+  521  git push origin main
+  522  history
+  523  history 50 > comandos.txt 
